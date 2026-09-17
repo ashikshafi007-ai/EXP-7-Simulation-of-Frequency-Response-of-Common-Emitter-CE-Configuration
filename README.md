@@ -23,5 +23,8 @@ Observation / Output
 
 
 The frequency-response graph is obtained from the LTspice simulation window by placing the probe at the required output node.
+<img width="922" height="520" alt="Screenshot 2026-09-08 135504" src="https://github.com/user-attachments/assets/beab9eb0-b44e-4a90-a9b6-c5c5bbf91eb0" />
+<img width="1278" height="738" alt="Screenshot 2026-09-08 135434" src="https://github.com/user-attachments/assets/287cb138-47cb-487e-b2d5-9b32383afe23" />
+
 Result
 Thus, the frequency response of the Common Emitter configuration circuit using LTspice is simulated and verified. 
